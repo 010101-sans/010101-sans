@@ -1,57 +1,94 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/010101-sans/count.svg" alt="Visitor Count" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Architect;Distributed+Systems+Specialist;010101-sans" alt="Typing SVG" />
+  </a>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&color=8B5CF6&duration=4000&lines=Hi+There!+I'm+Sanskar+Suryawanshi;Full+Stack+Architect;Building+Formidable+Systems;" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <img src="https://github.com/010101-sans/010101-sans/blob/main/banner.png" alt="010101-sans Banner" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3> 🚀 Passionate about Scalable Distributed Systems, React, and Cloud Engineering. </h3>
-  
-  <a href="mailto:sanskarsuryawanshi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/sanskar-suryawanshi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://010101-sans.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=010101-sans&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
 
 <br/>
 
-## 🛠️ The Arsenal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,rust,go,nextjs,flutter,nodejs,graphql,kafka,postgres,docker,k8s,aws,linux,nginx,git,figma,postman&perline=9" />
+  <h3 align="center">The Arsenal</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,rust,go,c,cpp,python,dart,flutter,nodejs,graphql,kafka,postgres,mongo,redis,docker,k8s,aws,linux,nginx,git,figma,vscode&perline=12&theme=dark" />
+  </a>
 </div>
 
 <br/>
 
-## ⚡️ Metrics
+<h2 align="center">Selected Works</h2>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=010101-sans&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=010101-sans&theme=tokyonight&layout=compact&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Top Languages" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/010101-sans/moctale-plus">
+        <img src="https://img.shields.io/badge/Moctale%20Plus-Beta-8B5CF6?style=for-the-badge" />
+      </a>
+      <br />
+      <strong>The Knowledge Graph Extension</strong>
+      <br />
+      <br />
+      React • TypeScript • IndexedDB
+      <br />
+      <br />
+      <a href="https://github.com/010101-sans/moctale-plus">View Code</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/010101-sans/namida_sync">
+        <img src="https://img.shields.io/badge/Namida%20Sync-v1.0-02569B?style=for-the-badge" />
+      </a>
+      <br />
+      <strong>15MB/s Local Sync Protocol</strong>
+      <br />
+      <br />
+      Flutter • Dart • Firebase
+      <br />
+      <br />
+      <a href="https://github.com/010101-sans/namida_sync">View Code</a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
 
-## 🐍 Contribution Graph
+<h2 align="center">Performance Metrics</h2>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/010101-sans/010101-sans/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/010101-sans/010101-sans/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/010101-sans/010101-sans/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=010101-sans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=010101-sans&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=010101-sans&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+<div align="center">
+  <img alt="Snake animation" src="https://github.com/010101-sans/010101-sans/blob/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
-## 📕 Latest Updates
+<br />
+<div align="center">
+  <a href="https://010101-sans.is-a.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20HQ-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=010101-sans&style=flat-square&color=8B5CF6&label=Profile+Views" />
+</div>
