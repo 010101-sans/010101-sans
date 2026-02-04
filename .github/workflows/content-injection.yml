@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-quote@release/v1
         with:
-          # This tells the bot to inject the quote between quote-mode: dark
-          title: "Quote Of The Day" # This changes the internal title logic
+          quote-mode: dark
+          title: "Quote Of The Day"
           set_mode: random
