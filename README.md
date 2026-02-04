@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://010101-sans.is-a.dev/">
-    <img src="https://img.shields.io/badge/GO_TO-DEVELOPER_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/LAUNCH-DEVELOPER_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
