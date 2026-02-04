@@ -12,8 +12,6 @@
 
 <br />
 
-<!-- <h1 align="center">The Arsenal</h1> -->
-
 <table border="0" width="100%">
   <tr>
     <td valign="top" width="50%">
