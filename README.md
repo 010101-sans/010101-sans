@@ -17,7 +17,7 @@
 <table border="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h3>Languages</h3>
+      <h3>Programming Languages</h3>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -60,9 +60,6 @@
       <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     </td>
   </tr>
-</table>
-
-<table border="0" width="100%">
   <tr>
     <td valign="top">
       <h3>Tools & Environment</h3>
