@@ -1,73 +1,103 @@
 <div align="center">
-  <a href="https://010101-sans.is-a.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=010101_SANS;FULL_STACK_ARCHITECT;SYSTEM_OVERRIDE_INITIATED..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=33ff00&center=true&vCenter=true&width=600&lines=INITIATING_PROTOCOL...;USER:+010101-sans;ARCHITECT_LEVEL:+SENIOR;LOADING_ARSENAL...;SYSTEM_STATUS:+ONLINE" alt="Terminal Header" />
+
+  <br />
+
+  <a href="https://linkedin.com/in/sanskar-suryawanshi">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,rust,go,c,cpp,python,flutter,nodejs,kafka,postgres,docker,k8s,aws,linux,nginx&perline=16&theme=dark" />
+  <a href="https://github.com/010101-sans">
+    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="mailto:sanskarsuryawanshi2003@gmail.com">
+    <img src="https://img.shields.io/badge/Signal-Email-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  
+  <br />
+  
+  <img src="https://img.shields.io/badge/Role-Architect-critical?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-Distributed-blueviolet?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-success?style=for-the-badge&logoColor=white" />
 </div>
 
-<br/>
+<hr />
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph">
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=010101-sans&theme=cyberpunk" width="100%" />
-</div>
-
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=010101-sans&theme=cyberpunk" width="100%" />
-      </td>
-      <td width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=010101-sans&theme=cyberpunk" width="100%" />
-      </td>
-      <td width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=010101-sans&theme=cyberpunk" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSC47qY/giphy.gif" width="25"> 
-  <span style="color: #8B5CF6">SYSTEM MODULES</span>
-</h2>
-
-<div align="center">
-<table>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" align="center">
-      <h3>MOCTALE PLUS</h3>
-      <a href="https://github.com/010101-sans/moctale-plus">
-        <img src="https://img.shields.io/badge/ARCHITECTED_WITH-REACT_%7C_TS_%7C_INDEXEDDB-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-      </a>
-      <p>Local-first knowledge graph engine.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">System Telemetry</h3>
+      <div align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=010101-sans&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
+        </a>
+        <br />
+        <a href="https://github.com/gitrynl/github-readme-streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=010101-sans&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
+        </a>
+      </div>
     </td>
-    <td width="50%" align="center">
-      <h3>NAMIDA SYNC</h3>
-      <a href="https://github.com/010101-sans/namida_sync">
-        <img src="https://img.shields.io/badge/ARCHITECTED_WITH-FLUTTER_%7C_DART_%7C_FIREBASE-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      </a>
-      <p>15MB/s High-throughput sync protocol.</p>
+
+    <td width="50%" valign="top">
+      <h3 align="center">The Arsenal</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=010101-sans&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" width="100%" />
+        
+        <br /><br />
+        
+        <b>Core Logic</b><br>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <br />
+        <b>Frontend</b><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <br />
+        <b>Infrastructure</b><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </div>
     </td>
   </tr>
 </table>
+
+<h3 align="center">Infrastructure Map</h3>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  
+  <br /><br />
+  
+  <img src="https://github.com/010101-sans/010101-sans/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
-<br/>
+<br />
+
+<table align="center" border="0">
+  <tr>
+    <td>
+       <a href="https://spotify.com">
+          <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&bar_color=53b14f&text_color=ffffff" height="80" />
+       </a>
+    </td>
+    <td>
+       <a href="https://github.com/010101-sans">
+          <img src="https://g.verresen.dev/profile/010101-sans" height="80" />
+       </a>
+    </td>
+  </tr>
+</table>
+
+<hr />
+<div align="center">
+  <h3>Daily Intelligence</h3>
+  <i>"Architecture is about the stuff that's hard to change later."</i>
+  <h3>Transmissions</h3>
+  </div>
 
 <div align="center">
-  <a href="https://010101-sans.is-a.dev">
-    <img src="https://img.shields.io/badge/ENTER_THE_PORTAL-010101--sans.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8B5CF6" />
-  </a>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
+  <sub>End of Line.</sub>
 </div>
