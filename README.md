@@ -1,11 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=B392F0&center=true&vCenter=true&width=600&lines=INITIATING_PROTOCOL...;USER:+010101-sans;ARCHITECT_LEVEL:+SENIOR;LOADING_FULL_ARSENAL...;SYSTEM_STATUS:+READY" alt="Terminal Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=B392F0&center=true&vCenter=true&width=600&lines=INITIATING_PROTOCOL...;USER:+010101-sans;ARCHITECT_LEVEL:+JUNIOR;LOADING_FULL_ARSENAL...;SYSTEM_STATUS:+READY" alt="Terminal Header" />
 </div>
 
 <br />
 
 <div align="center">
-  <h2 align="center">The Arsenal</h2>
+  <a href="https://010101-sans.is-a.dev/">
+    <img src="https://img.shields.io/badge/GO_TO-DEVELOPER_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h1 align="center">The Arsenal</h2>
   
   <h3 align="center">Languages</h3>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -66,14 +74,14 @@
   <img src="https://github.com/010101-sans/010101-sans/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
-<hr />
 
 <div align="center">
-  <h3 align="center">Runtime Parameters</h3>
+  <h3 align="center">Quote Of The Day</h3>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
   </div>
 
 <div align="center">
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=100&section=footer" width="100%" />
 </div>
+
