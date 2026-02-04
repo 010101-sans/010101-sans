@@ -1,0 +1,17 @@
+name: Update Profile Content
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every midnight
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-quote@release/v1
+        with:
+          # This tells the bot to inject the quote between quote-mode: dark
+          title: "System Philosophy" # This changes the internal title logic
+          set_mode: random
