@@ -78,7 +78,7 @@
 
 <div align="center">
   <h3 align="center">Quote Of The Day</h3>
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"A long descriptive name is better than a short enigmatic name. <br>A long descriptive name is better than a long descriptive comment." <br>- Robert C. Martin</i>
   </div>
 
 <div align="center">
