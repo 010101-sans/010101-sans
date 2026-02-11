@@ -13,83 +13,10 @@
 <br />
 <br />
 
-<!--  
-<div align="center">
-
-### 🧠 SYSTEM_PROFILE
-
-```
-
-• Backend & Distributed Systems Enthusiast
-• Building scalable, production-grade systems
-• Focused on clean architecture & performance
-• Cloud-native mindset
-
-```
-
-</div>
-
-<br />
-
----
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 🔹 Scalable API Platform
-- Spring Boot / Node.js  
-- PostgreSQL + Redis  
-- Dockerized deployment  
-- Designed for horizontal scalability  
-
-</td>
-<td width="50%">
-
-### 🔹 Real-Time Event Pipeline
-- Apache Kafka  
-- WebSocket streaming  
-- Microservices architecture  
-- Event-driven processing  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔹 Fullstack Production App
-- Next.js + TypeScript  
-- GraphQL API  
-- Authentication & Role-based access  
-- Deployed on AWS  
-
-</td>
-<td width="50%">
-
-### 🔹 Systems-Level Project
-- Rust / C++  
-- Memory-conscious design  
-- Performance benchmarking  
-- Linux-based development  
-
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
-# Arsenal
--->
-
 <table border="0" width="100%">
   <tr>
     <td width="50%" text-align="center" vertical-align="middle" >
-      <h4>Core Languages</h4>
+      <h3>Core Languages</h3>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -100,7 +27,7 @@
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     </td>
     <td width="50%" text-align="center" vertical-align="middle" >
-      <h4>Frontend & Mobile</h4>
+      <h3>Frontend & Mobile</h3>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -109,7 +36,7 @@
   </tr>
   <tr>
     <td text-align="center" vertical-align="middle" >
-      <h4>Backend & Infrastructure</h4>
+      <h3>Backend & Infrastructure</h3>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
@@ -121,7 +48,7 @@
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
     <td text-align="center" vertical-align="middle" >
-      <h4>Data Persistence</h4>
+      <h3>Data Persistence</h3>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -133,7 +60,7 @@
   </tr>
   <tr>
     <td>
-      <h4>Tools & Environment</h4>
+      <h3>Tools & Environment</h3>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -143,15 +70,24 @@
   </tr>
 </table>
 
+<br />
+<br />
+
+
 <div align="center">
   <img src="https://github.com/010101-sans/010101-sans/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 <br />
+<br />
 
 <div align="center">
   <h3>Quote Of The Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&align=center&border=true" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&align=center&border=true"
+    height="200px"
+  />
+  
 </div>
 
 <div align="center">
