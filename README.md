@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=B392F0&center=true&vCenter=true&width=600&lines=INITIATING_PROTOCOL...;USER:+010101-sans;SYSTEM_ROLE:+SOFTWARE_ENGINEER;ARCHITECTURE_MODE:+EVOLVING;SYSTEM_STATUS:+READY" alt="Terminal Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=B392F0&center=true&vCenter=true&width=600&lines=INITIATING_PROTOCOL...;USER:+010101-sans;ARCHITECT_LEVEL:+JUNIOR;LOADING_FULL_ARSENAL...;SYSTEM_STATUS:+READY" alt="Terminal Header" />
 </div>
 
 <br />
@@ -88,7 +88,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" text-align="center" vertical-align="middle" >
       <h3>Core Languages</h3>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -99,7 +99,7 @@
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     </td>
-    <td width="50%">
+    <td width="50%" text-align="center" vertical-align="middle" >
       <h3>Frontend & Mobile</h3>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -108,7 +108,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td text-align="center" vertical-align="middle" >
       <h3>Backend & Infrastructure</h3>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -120,7 +120,7 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
-    <td>
+    <td text-align="center" vertical-align="middle" >
       <h3>Data Persistence</h3>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -147,10 +147,11 @@
   <img src="https://github.com/010101-sans/010101-sans/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
+<br />
 
 <div align="center">
   <h3>Quote Of The Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
 </div>
 
 <div align="center">
