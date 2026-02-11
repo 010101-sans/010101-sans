@@ -37,7 +37,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔹 Scalable API Platform
 - Spring Boot / Node.js  
@@ -46,7 +46,7 @@
 - Designed for horizontal scalability  
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔹 Real-Time Event Pipeline
 - Apache Kafka  
@@ -58,7 +58,7 @@
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔹 Fullstack Production App
 - Next.js + TypeScript  
@@ -67,7 +67,7 @@
 - Deployed on AWS  
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔹 Systems-Level Project
 - Rust / C++  
@@ -88,7 +88,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%">
       <h3>Core Languages</h3>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -99,7 +99,7 @@
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     </td>
-    <td valign="top" width="50%">
+    <td width="50%">
       <h3>Frontend & Mobile</h3>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -108,7 +108,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td>
       <h3>Backend & Infrastructure</h3>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -120,7 +120,7 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
-    <td valign="top">
+    <td>
       <h3>Data Persistence</h3>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -132,7 +132,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td>
       <h3>Tools & Environment</h3>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -143,25 +143,16 @@
   </tr>
 </table>
 
-<br />
-
 <div align="center">
   <img src="https://github.com/010101-sans/010101-sans/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
-<br />
 
 <div align="center">
   <h3>Quote Of The Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </div>
-
-<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=100&section=footer" width="100%" />
-</div>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
