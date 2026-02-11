@@ -151,7 +151,7 @@
 
 <div align="center">
   <h3>Quote Of The Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&align=center&border=true" />
 </div>
 
 <div align="center">
