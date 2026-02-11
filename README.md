@@ -85,9 +85,11 @@
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&align=center&border=true"
     height="200px"
+    width="auto"
   />
   
 </div>
+<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=100&section=footer" width="100%" />
