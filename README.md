@@ -11,6 +11,7 @@
 </div>
 
 <br />
+<br />
 
 <!--  
 <div align="center">
@@ -152,12 +153,15 @@
 
 <div align="center">
   <h3>Quote Of The Day</h3>
-  <!-- QUOTE-START -->
-  <!-- QUOTE-END -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=100&section=footer" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
