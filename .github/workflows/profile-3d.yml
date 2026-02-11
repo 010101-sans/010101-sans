@@ -1,24 +1,36 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate GitHub Profile 3D Contributions
 
 on:
   schedule:
-    - cron: "0 18 * * *" # Runs every day
+    - cron: "0 18 * * *" # Runs daily at 18:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      - name: Commit & Push if Changed
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
           git push

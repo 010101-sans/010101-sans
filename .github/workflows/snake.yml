@@ -1,18 +1,28 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 6 * * *" # Runs daily at 06:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-snake
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          # Name of the user to generate the snake for
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
@@ -20,9 +30,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          force_orphan: true

@@ -1,16 +1,27 @@
-name: Update Profile Content
+name: Update Profile Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight
+    - cron: "0 0 * * *" # Runs daily at 00:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-quote
+  cancel-in-progress: true
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-quote@release/v1
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Inject Random Quote
+        uses: vn7n24fzkq/github-profile-quote@release/v1
         with:
           quote-mode: dark
           title: "Quote Of The Day"

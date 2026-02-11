@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=B392F0&center=true&vCenter=true&width=600&lines=INITIATING_PROTOCOL...;USER:+010101-sans;ARCHITECT_LEVEL:+JUNIOR;LOADING_FULL_ARSENAL...;SYSTEM_STATUS:+READY" alt="Terminal Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=B392F0&center=true&vCenter=true&width=600&lines=INITIATING_PROTOCOL...;USER:+010101-sans;SYSTEM_ROLE:+SOFTWARE_ENGINEER;ARCHITECTURE_MODE:+EVOLVING;SYSTEM_STATUS:+READY" alt="Terminal Header" />
 </div>
 
 <br />
@@ -12,16 +12,88 @@
 
 <br />
 
+<!--  
+<div align="center">
+
+### 🧠 SYSTEM_PROFILE
+
+```
+
+• Backend & Distributed Systems Enthusiast
+• Building scalable, production-grade systems
+• Focused on clean architecture & performance
+• Cloud-native mindset
+
+```
+
+</div>
+
+<br />
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Scalable API Platform
+- Spring Boot / Node.js  
+- PostgreSQL + Redis  
+- Dockerized deployment  
+- Designed for horizontal scalability  
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Real-Time Event Pipeline
+- Apache Kafka  
+- WebSocket streaming  
+- Microservices architecture  
+- Event-driven processing  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Fullstack Production App
+- Next.js + TypeScript  
+- GraphQL API  
+- Authentication & Role-based access  
+- Deployed on AWS  
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Systems-Level Project
+- Rust / C++  
+- Memory-conscious design  
+- Performance benchmarking  
+- Linux-based development  
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+-->
+
+# Arsenal
+
 <table border="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h3>Programming Languages</h3>
+      <h3>Core Languages</h3>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -72,16 +144,24 @@
 
 <br />
 
+---
+
 <div align="center">
   <img src="https://github.com/010101-sans/010101-sans/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
-<div align="center">
-  <h3 align="center">Quote Of The Day</h3>
-  <i>"A long descriptive name is better than a short enigmatic name. <br>A long descriptive name is better than a long descriptive comment." <br>- Robert C. Martin</i>
-  </div>
+<br />
+
+---
 
 <div align="center">
-  <br />
+  <h3>Quote Of The Day</h3>
+  <!-- QUOTE-START -->
+  <!-- QUOTE-END -->
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=100&section=footer" width="100%" />
 </div>
