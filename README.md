@@ -81,9 +81,9 @@
 <br />
 
 ---
--->
 
 # Arsenal
+-->
 
 <table border="0" width="100%">
   <tr>
@@ -144,15 +144,11 @@
 
 <br />
 
----
-
 <div align="center">
   <img src="https://github.com/010101-sans/010101-sans/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 <br />
-
----
 
 <div align="center">
   <h3>Quote Of The Day</h3>
